@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "PRAKTIKUM_17c6011e"
+        },
+        {
+            "type": "java",
+            "name": "Launch UlangWhile1",
+            "request": "launch",
+            "mainClass": "UlangWhile1",
+            "projectName": "PRAKTIKUM_17c6011e"
+        },
+        {
+            "type": "java",
+            "name": "Launch modul8Latihan",
+            "request": "launch",
+            "mainClass": "modul8Latihan",
+            "projectName": "PRAKTIKUM_17c6011e"
+        },
+        {
+            "type": "java",
+            "name": "Launch modul8_3",
+            "request": "launch",
+            "mainClass": "modul8_3",
+            "projectName": "PRAKTIKUM_17c6011e"
+        },
+        {
+            "type": "java",
+            "name": "Launch modul8_4",
+            "request": "launch",
+            "mainClass": "modul8_4",
+            "projectName": "PRAKTIKUM_17c6011e"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "PRAKTIKUM_17c6011e"
+        }
+    ]
+}
